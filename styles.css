@@ -11,11 +11,12 @@ body, html {
   .container {
     max-width: 600px;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.9); /* Quadro com opacidade */
+    background-color: rgba(255, 255, 255, 0.1); /* Quadro com mais transparência */
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.096);
     text-align: center;
   }
+  
   
   .background-img {
     position: absolute;
